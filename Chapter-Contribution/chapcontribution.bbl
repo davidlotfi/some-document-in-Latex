@@ -1,0 +1,79 @@
+\begin{thebibliography}{10}
+
+\bibitem{ref36}
+Hong-Yunn Chen et~al.
+\newblock Tensorflow--a system for large-scale machine learning.
+\newblock In {\em OSDI}, volume~16, pages 265--283, 2016.
+
+\bibitem{ref31}
+Fran{\c{c}}ois Chollet.
+\newblock Keras documentation.
+\newblock {\em keras. io}, 2015.
+
+\bibitem{ref35}
+Gilbert Gede, Dale~L Peterson, Angadh~S Nanjangud, Jason~K Moore, and Mont
+  Hubbard.
+\newblock Constrained multibody dynamics with python: From symbolic equation
+  generation to publication.
+\newblock In {\em ASME 2013 international design engineering technical
+  conferences and computers and information in engineering conference}, pages
+  V07BT10A051--V07BT10A051. American Society of Mechanical Engineers, 2013.
+
+\bibitem{ref29}
+DE~Hardt, E~Constantine, and A~Wright.
+\newblock A model of the sequential bending process for manufacturing
+  simulation.
+\newblock {\em Journal of engineering for industry}, 114(2):181--187, 1992.
+
+\bibitem{ref25}
+Jeff Heaton.
+\newblock {\em Introduction to neural networks with Java}.
+\newblock Heaton Research, Inc., 2008.
+
+\bibitem{ref28}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1097--1105, 2012.
+
+\bibitem{ref32}
+Kahina Machouche, Kamel Amroun, et~al.
+\newblock {\em Conception et r{\'e}alisation d'une application Android pour la
+  gestion des ressources humaines synchronis{\'e} avec l'ERP Odoo}.
+\newblock PhD thesis, Universit{\'e} Abderrahmane Mira-Bejaia, 2018.
+
+\bibitem{ref30}
+Konstantinos Makantasis, Konstantinos Karantzalos, Anastasios Doulamis, and
+  Nikolaos Doulamis.
+\newblock Deep supervised learning for hyperspectral data classification
+  through convolutional neural networks.
+\newblock In {\em 2015 IEEE International Geoscience and Remote Sensing
+  Symposium (IGARSS)}, pages 4959--4962. IEEE, 2015.
+
+\bibitem{ref26}
+Chintan~Bimal Maniyar, Chintan~M Bhatt, Tejas~Nimeshkumar Pandit, and
+  Dewanshi~Harishankar Yadav.
+\newblock Cheerbot: A step ahead of conventional chatbot.
+\newblock In {\em Next-Generation Wireless Networks Meet Advanced Machine
+  Learning Applications}, pages 306--322. IGI Global, 2019.
+
+\bibitem{ref27}
+Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean.
+\newblock Efficient estimation of word representations in vector space.
+\newblock {\em arXiv preprint arXiv:1301.3781}, 2013.
+
+\bibitem{ref24}
+Guido Van~Rossum and Fred~L Drake.
+\newblock {\em The python language reference manual}.
+\newblock Network Theory Ltd., 2011.
+
+\bibitem{ref34}
+Guido van Rossum et~al.
+\newblock The python language.
+\newblock {\em See http://www. python. org}, 1990.
+
+\bibitem{ref37}
+Xenia~Salinas Ventall{\'o}.
+\newblock Spatio-temporal emotion recognition.
+
+\end{thebibliography}

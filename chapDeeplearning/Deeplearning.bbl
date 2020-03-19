@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+
+\bibitem{ref6}
+Christopher~M Bishop et~al.
+\newblock {\em Neural networks for pattern recognition}.
+\newblock Oxford university press, 1995.
+
+\bibitem{ref4}
+Fran{\c{c}}ois Blayo and Michel Verleysen.
+\newblock {\em Les r{\'e}seaux de neurones artificiels}.
+\newblock Inderscience Publishers, 1996.
+
+\bibitem{ref}
+Francois Chollet.
+\newblock {\em Deep Learning mit Python und Keras: Das Praxis-Handbuch vom
+  Entwickler der Keras-Bibliothek}.
+\newblock MITP-Verlags GmbH \& Co. KG, 2018.
+
+\bibitem{ref8}
+Li~Deng and John~C Platt.
+\newblock Ensemble deep learning for speech recognition.
+\newblock In {\em Fifteenth Annual Conference of the International Speech
+  Communication Association}, 2014.
+
+\bibitem{ref5}
+Jeff Heaton.
+\newblock Artificial intelligence for humans, volume 3: Neural networks and
+  deep learning, 2015.
+
+\bibitem{ref2}
+Chafika Ramdane, Souham Meshoul, Mohamed Batouche, and Mohamed-Khireddine
+  Kholladi.
+\newblock A quantum evolutionary algorithm for data clustering.
+\newblock {\em International Journal of Data Mining, Modelling and Management},
+  2010.
+
+\bibitem{ref7}
+Stuart~J Russell and Peter Norvig.
+\newblock {\em Artificial intelligence: a modern approach}.
+\newblock Malaysia; Pearson Education Limited,, 2016.
+
+\bibitem{ref3}
+St{\'e}phane Tuff{\'e}ry.
+\newblock {\em Data mining and statistics for decision making}.
+\newblock John Wiley \& Sons, 2011.
+
+\end{thebibliography}

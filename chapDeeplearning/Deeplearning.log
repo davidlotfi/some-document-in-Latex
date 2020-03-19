@@ -1,0 +1,751 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.20)  19 MAR 2020 21:07
+entering extended mode
+**./Deeplearning.tex
+(Deeplearning.tex
+LaTeX2e <2018-12-01>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(Deeplearning.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+\openout1 = `Deeplearning.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen105
+\scratchbox=\box27
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen106
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks16
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Chapter 1.
+<1.png, id=1, 120.45pt x 82.8696pt>
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.9 \includegraphics[width=300]{1.png}
+                                      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.9 \includegraphics[width=300]{1.png}
+                                      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 9.
+(pdftex.def)             Requested size: 300.0pt x 206.41978pt.
+[1
+
+
+{C:/Users/doudou/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./1.png>]
+
+LaTeX Warning: Citation `ref10' on page 2 undefined on input line 16.
+
+
+LaTeX Warning: Citation `ref10' on page 2 undefined on input line 17.
+
+
+LaTeX Warning: Citation `ref10' on page 2 undefined on input line 20.
+
+[2]
+
+LaTeX Warning: Citation `ref10' on page 3 undefined on input line 27.
+
+
+Overfull \hbox (19.4402pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/12 L'apprentissage au-toma-tique est un sous-domaine de l'intellig
+ence ar-ti-fi-cielle(IA).
+ []
+
+
+LaTeX Warning: Citation `ref11' on page 3 undefined on input line 31.
+
+
+Overfull \hbox (11.49287pt too wide) in paragraph at lines 33--33
+[]\OT1/cmr/bx/n/14.4 Differentes methodes d'apprentissage au-toma-tique 
+ []
+
+
+LaTeX Warning: Citation `ref11' on page 3 undefined on input line 35.
+
+
+LaTeX Warning: Citation `...' on page 3 undefined on input line 40.
+
+
+LaTeX Warning: Citation `ref11' on page 3 undefined on input line 42.
+
+[3]
+
+LaTeX Warning: Citation `ref11' on page 4 undefined on input line 46.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+<iris.jpg, id=14, 575.90157pt x 258.21469pt>
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.52 \includegraphics[width=300]{iris.jpg}
+                                          
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.52 \includegraphics[width=300]{iris.jpg}
+                                          
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: iris.jpg Graphic file (type jpg)
+<use iris.jpg>
+Package pdftex.def Info: iris.jpg  used on input line 52.
+(pdftex.def)             Requested size: 300.0pt x 134.51274pt.
+
+LaTeX Warning: Citation `ref11' on page 4 undefined on input line 59.
+
+
+LaTeX Warning: Citation `ref11' on page 4 undefined on input line 71.
+
+[4 <./iris.jpg>]
+
+LaTeX Warning: Citation `ref11' on page 5 undefined on input line 84.
+
+
+LaTeX Warning: Citation `ref11' on page 5 undefined on input line 101.
+
+
+LaTeX Warning: Citation `ref11' on page 5 undefined on input line 105.
+
+
+Overfull \hbox (1.85843pt too wide) in paragraph at lines 105--106
+\OT1/cmr/m/n/12 dite mul-ti-ple si elle per-met de predire les valeurs d'une v
+ari-able cible(expliquee
+ []
+
+
+Overfull \hbox (13.08063pt too wide) in paragraph at lines 105--106
+\OT1/cmr/m/n/12 (Y)) a par-tir des valeurs prises par plusieurs autres vari-ab
+les dites independantes
+ []
+
+[5]
+<rg.png, id=21, 517.935pt x 178.41656pt>
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.110 \includegraphics[width=300]{rg.png}
+                                         
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.110 \includegraphics[width=300]{rg.png}
+                                         
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: rg.png Graphic file (type png)
+<use rg.png>
+Package pdftex.def Info: rg.png  used on input line 110.
+(pdftex.def)             Requested size: 300.0pt x 103.34827pt.
+
+Overfull \hbox (1.72787pt too wide) in paragraph at lines 107--115
+\OT1/cmr/m/n/12 lineaire clas-sique, qui se lim-ite aux modeles lineaires de
+ prevision, la regression
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
+
+ []
+
+[6 <./rg.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+<add2.png, id=25, 601.7263pt x 240.64372pt>
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.141 \includegraphics[width=400]{add2.png}
+                                           
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.141 \includegraphics[width=400]{add2.png}
+                                           
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: add2.png Graphic file (type png)
+<use add2.png>
+Package pdftex.def Info: add2.png  used on input line 141.
+(pdftex.def)             Requested size: 400.0pt x 159.9673pt.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 141--142
+ [] 
+ []
+
+[7 <./add2.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+
+ []
+
+<knn.png, id=30, 348.30125pt x 145.54375pt>
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.165 \includegraphics[width=400]{knn.png}
+                                          
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.165 \includegraphics[width=400]{knn.png}
+                                          
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: knn.png Graphic file (type png)
+<use knn.png>
+Package pdftex.def Info: knn.png  used on input line 165.
+(pdftex.def)             Requested size: 400.0pt x 167.15413pt.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 165--166
+ [] 
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.170 \\\\
+          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.171 C
+       hoix de la distance par attribut et du mode de combinaison des distan...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[8 <./knn.png>]
+Overfull \hbox (12.89026pt too wide) in paragraph at lines 184--185
+\OT1/cmr/m/n/12 est un en-sem-ble des methodes d'apprentissage au-toma-tique t
+en-tant de modeliser
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.196 L
+       es algorithme de machine learning nâ€™est pas efficace pour les donnÃ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (3.15288pt too wide) in paragraph at lines 199--199
+[]\OT1/cmr/bx/n/14.4 La democratisation de l'apprentissage pro-fondeur 
+ []
+
+
+LaTeX Warning: Citation `ref12' on page 9 undefined on input line 200.
+
+
+Overfull \hbox (27.73872pt too wide) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 iques de ma-nip-u-la-tion tenseur pour Python prenant en charge
+ l'autodifferenciation,
+ []
+
+[9]
+
+LaTeX Warning: Citation `ref12' on page 10 undefined on input line 203.
+
+<bio.png, id=38, 803.0pt x 249.93375pt>
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.206 \includegraphics[width=450]{bio.png}
+                                          
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.206 \includegraphics[width=450]{bio.png}
+                                          
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: bio.png Graphic file (type png)
+<use bio.png>
+Package pdftex.def Info: bio.png  used on input line 206.
+(pdftex.def)             Requested size: 450.0pt x 140.06491pt.
+
+Overfull \hbox (60.0pt too wide) in paragraph at lines 206--207
+ [] 
+ []
+
+
+LaTeX Warning: Citation `ref12' on page 10 undefined on input line 213.
+
+
+LaTeX Warning: Citation `ref13' on page 10 undefined on input line 215.
+
+[10 <./bio.png (PNG copy)>]
+
+LaTeX Warning: Citation `ref13' on page 11 undefined on input line 218.
+
+
+LaTeX Warning: Citation `ref13' on page 11 undefined on input line 233.
+
+
+LaTeX Warning: Citation `ref13' on page 11 undefined on input line 233.
+
+
+Overfull \hbox (26.729pt too wide) in paragraph at lines 232--234
+\OT1/cmr/m/n/12 la con-vo-lu-tion est une tech-nolo-gie im-por-tante sou-vent c
+om-bine avec l'apprentissage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--234
+
+ []
+
+[11] [12]
+
+LaTeX Warning: Citation `ref13' on page 13 undefined on input line 236.
+
+
+Overfull \hbox (17.00272pt too wide) in paragraph at lines 236--239
+\OT1/cmr/m/n/12 reseaux d'unites de cal-cul elementaire in-ter con-nectees
+,algorithmes pour resoudre
+ []
+
+
+LaTeX Warning: Citation `ref13' on page 13 undefined on input line 241.
+
+<extract.png, id=48, 931.48pt x 339.2675pt>
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.244 \includegraphics[width=300]{extract.png}
+                                              
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.244 \includegraphics[width=300]{extract.png}
+                                              
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: extract.png Graphic file (type png)
+<use extract.png>
+Package pdftex.def Info: extract.png  used on input line 244.
+(pdftex.def)             Requested size: 300.0pt x 109.26668pt.
+
+Overfull \hbox (9.02512pt too wide) in paragraph at lines 241--249
+\OT1/cmr/m/n/12 Une con-cep-tion typ-ique de CNN com-mence par l'extraction des
+ car-acteristiques
+ []
+
+
+LaTeX Warning: Citation `ref14' on page 13 undefined on input line 252.
+
+<nnda.png, id=50, 565.11125pt x 277.035pt>
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.255 \includegraphics[width=300]{nnda.png}
+                                           
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.255 \includegraphics[width=300]{nnda.png}
+                                           
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: nnda.png Graphic file (type png)
+<use nnda.png>
+Package pdftex.def Info: nnda.png  used on input line 255.
+(pdftex.def)             Requested size: 300.0pt x 147.07301pt.
+[13 <./extract.png>]
+
+LaTeX Warning: Citation `ref14' on page 14 undefined on input line 264.
+
+
+LaTeX Warning: Citation `ref15' on page 14 undefined on input line 270.
+
+
+Overfull \hbox (15.07497pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/12 Les premieres ap-pli-ca-tions reussies de reseaux de con-vo-
+lu-tion ont ete developpees
+ []
+
+[14 <./nnda.png>]
+
+LaTeX Warning: Citation `ref15' on page 15 undefined on input line 274.
+
+<cnn.png, id=60, 1043.9pt x 321.2pt>
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.282 \includegraphics[width=400]{cnn.png}
+                                          
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.282 \includegraphics[width=400]{cnn.png}
+                                          
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: cnn.png Graphic file (type png)
+<use cnn.png>
+Package pdftex.def Info: cnn.png  used on input line 282.
+(pdftex.def)             Requested size: 400.0pt x 123.07669pt.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 282--283
+ [] 
+ []
+
+
+LaTeX Warning: Citation `ref15' on page 15 undefined on input line 288.
+
+
+Overfull \hbox (19.2791pt too wide) in paragraph at lines 279--289
+\OT1/cmr/m/n/12 LeNET-5 est une ar-chi-tec-ture pri-maire du clas-si-fi-ca-tion
+ pour l'images graphiques,
+ []
+
+[15 <./cnn.png>] [16]
+
+LaTeX Warning: Citation `ref15' on page 17 undefined on input line 294.
+
+
+LaTeX Warning: Citation `ref15' on page 17 undefined on input line 296.
+
+
+LaTeX Warning: Citation `ref16' on page 17 undefined on input line 299.
+
+
+LaTeX Warning: Citation `ref15' on page 17 undefined on input line 302.
+
+<evalu.png, id=68, 441.5697pt x 167.30505pt>
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.305 \includegraphics[width=300]{evalu.png}
+                                            
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.305 \includegraphics[width=300]{evalu.png}
+                                            
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: evalu.png Graphic file (type png)
+<use evalu.png>
+Package pdftex.def Info: evalu.png  used on input line 305.
+(pdftex.def)             Requested size: 300.0pt x 113.66637pt.
+[17 <./evalu.png>]
+
+LaTeX Warning: Citation `ref16' on page 18 undefined on input line 315.
+
+
+LaTeX Warning: Citation `ref17' on page 18 undefined on input line 318.
+
+[18]
+
+LaTeX Warning: Citation `ref17' on page 19 undefined on input line 330.
+
+[19] (Deeplearning.bbl
+Underfull \hbox (badness 5359) in paragraph at lines 31--36
+[]\OT1/cmr/m/n/12 Chafika Ram-dane, Souham Meshoul, Mo-hamed Ba-touche, and
+ []
+
+) [20
+
+] (Deeplearning.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1556 strings out of 492946
+ 22088 string characters out of 3135524
+ 87060 words of memory out of 3000000
+ 5452 multiletter control sequences out of 15000+200000
+ 6409 words of font info for 23 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,7n,25p,1125b,265s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Deeplearning.pdf (20 pages, 1186764 bytes).
+PDF statistics:
+ 95 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+

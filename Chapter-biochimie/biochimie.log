@@ -1,0 +1,449 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.20)  19 MAR 2020 21:31
+entering extended mode
+**./biochimie.tex
+(biochimie.tex
+LaTeX2e <2018-12-01>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(biochimie.aux)
+\openout1 = `biochimie.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen105
+\scratchbox=\box27
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen106
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks16
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Chapter 1.
+<biochimie_head_fr.jpg, id=1, 667.49374pt x 401.5pt>
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.11 ...graphics[width=350]{biochimie_head_fr.jpg}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.11 ...graphics[width=350]{biochimie_head_fr.jpg}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: biochimie_head_fr.jpg Graphic file (type jpg)
+<use biochimie_head_fr.jpg>
+Package pdftex.def Info: biochimie_head_fr.jpg  used on input line 11.
+(pdftex.def)             Requested size: 350.0pt x 210.53334pt.
+[1
+
+
+{C:/Users/doudou/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./biochimi
+e_head_fr.jpg>]
+
+LaTeX Warning: Citation `ref5' on page 2 undefined on input line 14.
+
+
+LaTeX Warning: Citation `ref5' on page 2 undefined on input line 14.
+
+
+LaTeX Warning: Citation `ref5' on page 2 undefined on input line 15.
+
+[2]
+
+LaTeX Warning: Citation `ref6' on page 3 undefined on input line 19.
+
+
+LaTeX Warning: Citation `ref6' on page 3 undefined on input line 20.
+
+
+Overfull \hbox (5.58537pt too wide) in paragraph at lines 19--21
+\OT1/cmr/m/n/12 La \OT1/cmr/bx/n/12 biochimie \OT1/cmr/m/n/12 est le do-maine o
+u se ren-con-trent chimie et bi-olo-gie, La biochimie
+ []
+
+
+LaTeX Warning: Citation `ref6' on page 3 undefined on input line 23.
+
+<bio.jpg, id=11, 301.125pt x 168.63pt>
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.26 \includegraphics[width=300]{bio.jpg}
+                                         
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.26 \includegraphics[width=300]{bio.jpg}
+                                         
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: bio.jpg Graphic file (type jpg)
+<use bio.jpg>
+Package pdftex.def Info: bio.jpg  used on input line 26.
+(pdftex.def)             Requested size: 300.0pt x 168.0146pt.
+
+LaTeX Warning: Citation `ref6' on page 3 undefined on input line 35.
+
+[3 <./bio.jpg>]
+
+LaTeX Warning: Citation `ref6' on page 4 undefined on input line 46.
+
+
+LaTeX Warning: Citation `ref7' on page 4 undefined on input line 52.
+
+
+LaTeX Warning: Citation `ref7' on page 4 undefined on input line 54.
+
+[4]
+
+LaTeX Warning: Citation `ref7' on page 5 undefined on input line 57.
+
+
+Overfull \hbox (0.11896pt too wide) in paragraph at lines 57--59
+\OT1/cmr/m/n/12 les \OT1/cmr/bx/n/12 medicaments \OT1/cmr/m/n/12 oc-cupe une p
+lace im-por-tante dans l'exercice de la medecine
+ []
+
+
+Overfull \hbox (8.45142pt too wide) in paragraph at lines 57--59
+\OT1/cmr/m/n/12 ten-dus ou des ef-fets indesirables ob-serves lors de la pre-
+scrip-tion du medicament. 
+ []
+
+
+LaTeX Warning: Citation `ref7' on page 5 undefined on input line 66.
+
+<med.jpg, id=18, 2127.95pt x 1158.3275pt>
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.69 \includegraphics[width=300]{med.jpg}
+                                         
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.69 \includegraphics[width=300]{med.jpg}
+                                         
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: med.jpg Graphic file (type jpg)
+<use med.jpg>
+Package pdftex.def Info: med.jpg  used on input line 69.
+(pdftex.def)             Requested size: 300.0pt x 163.29591pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation `ref7' on page 5 undefined on input line 82.
+
+[5] [6 <./med.jpg>]
+
+LaTeX Warning: Citation `ref8' on page 7 undefined on input line 94.
+
+<mol.jpg, id=25, 767.86874pt x 575.14874pt>
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.97 \includegraphics[width=300]{mol.jpg}
+                                         
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.97 \includegraphics[width=300]{mol.jpg}
+                                         
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: mol.jpg Graphic file (type jpg)
+<use mol.jpg>
+Package pdftex.def Info: mol.jpg  used on input line 97.
+(pdftex.def)             Requested size: 300.0pt x 224.7108pt.
+[7 <./mol.jpg>]
+
+LaTeX Warning: Citation `ref8' on page 8 undefined on input line 117.
+
+
+Overfull \hbox (7.40698pt too wide) in paragraph at lines 117--118
+\OT1/cmr/m/n/12 lu-laire, tis-su-laire, or-ganique, des systemes nerveux, et e
+n-fin celui de l'organisme
+ []
+
+
+Overfull \hbox (26.4679pt too wide) in paragraph at lines 117--118
+\OT1/cmr/m/n/12 com-pren-dre le fonc-tion-nement de la cel-lule, qui est l'unit
+e fonc-tion-nelle elementaire
+ []
+
+
+LaTeX Warning: Citation `ref8' on page 8 undefined on input line 120.
+
+[8]
+
+LaTeX Warning: Citation `ref9' on page 9 undefined on input line 124.
+
+
+LaTeX Warning: Citation `ref9' on page 9 undefined on input line 127.
+
+<qsar22.png, id=33, 803.0pt x 281.05pt>
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.131 \includegraphics[width=300]{qsar22.png}
+                                             
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.131 \includegraphics[width=300]{qsar22.png}
+                                             
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: qsar22.png Graphic file (type png)
+<use qsar22.png>
+Package pdftex.def Info: qsar22.png  used on input line 131.
+(pdftex.def)             Requested size: 300.0pt x 105.00323pt.
+
+LaTeX Warning: Citation `ref9' on page 9 undefined on input line 137.
+
+
+Overfull \hbox (10.80743pt too wide) in paragraph at lines 137--138
+\OT1/cmr/m/n/12 L'utilisation de modeles \OT1/cmr/bx/n/12 QSAR \OT1/cmr/m/n/12
+ pour la ges-tion du risque chim-ique s'accroissant
+ []
+
+[9 <./qsar22.png>]
+<des.jpg, id=39, 959.585pt x 439.6425pt>
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.144 \includegraphics[width=300]{des.jpg}
+                                          
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.144 \includegraphics[width=300]{des.jpg}
+                                          
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: des.jpg Graphic file (type jpg)
+<use des.jpg>
+Package pdftex.def Info: des.jpg  used on input line 144.
+(pdftex.def)             Requested size: 300.0pt x 137.44832pt.
+
+LaTeX Warning: Citation `ref9' on page 10 undefined on input line 149.
+
+
+LaTeX Warning: Citation `ref9' on page 10 undefined on input line 152.
+
+[10 <./des.jpg>]
+
+LaTeX Warning: Citation `ref9' on page 11 undefined on input line 154.
+
+
+LaTeX Warning: Citation `ref9' on page 11 undefined on input line 158.
+
+[11] [12] (biochimie.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1514 strings out of 492946
+ 21632 string characters out of 3135524
+ 86945 words of memory out of 3000000
+ 5418 multiletter control sequences out of 15000+200000
+ 6062 words of font info for 22 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,7n,25p,911b,265s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on biochimie.pdf (12 pages, 957592 bytes).
+PDF statistics:
+ 57 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
